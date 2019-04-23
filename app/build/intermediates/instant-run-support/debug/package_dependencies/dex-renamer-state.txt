@@ -1,0 +1,4 @@
+#Tue Apr 23 13:10:33 NOVT 2019
+base.0=/home/oleg/AndroidStudioProjects/MoneyTracker-master/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
